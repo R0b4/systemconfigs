@@ -1,0 +1,9 @@
+.gtkrc-2.0
+.bashrc
+.config/alacritty/.
+.config/fish/.
+.config/gtk-3.0/.
+.config/picom/.
+.config/rofi/.
+.config/qtile/.
+.config/nitrogen/.
